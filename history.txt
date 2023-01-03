@@ -101,3 +101,4 @@ ls -la
 rm *
 head -1 HCEPDB_moldata.csv 
 ls -la
+cat /etc/passwd
