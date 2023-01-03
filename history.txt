@@ -8,3 +8,4 @@ cd tmp
 cd zork
 ls
 cd ~/
+ls history/
