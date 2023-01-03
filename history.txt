@@ -22,3 +22,4 @@ cd /tmp
 ls ~
 ls .
 ls 
+cd ..
