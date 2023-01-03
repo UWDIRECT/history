@@ -37,3 +37,4 @@ ls -l
 ls -la
 cd ..
 rdmir pixel
+rmdir pixel
