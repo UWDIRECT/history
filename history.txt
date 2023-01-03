@@ -1,0 +1,4 @@
+vim start_history_push.sh 
+nano --help
+conda --help
+source start_history_push.sh 
