@@ -12,3 +12,4 @@ cd /tmp
 ls
 cd
 cd /tmp
+cd ~
