@@ -89,3 +89,4 @@ mkdir hcepdb
 cd hcepdb/
 curl -O http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
 curl http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
+curl http://www.google.com
