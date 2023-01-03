@@ -77,3 +77,4 @@ curl --help
 python --help
 cd ..
 rmdir pixel
+cd pixel/
