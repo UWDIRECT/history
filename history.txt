@@ -96,3 +96,4 @@ unzip HCEPDB_moldata.zip
 ls -lh
 cat HCEPDB_moldata.csv 
 head HCEPDB_moldata.csv 
+head -1 HCEPDB_moldata.csv 
