@@ -38,3 +38,4 @@ ls -la
 cd ..
 rdmir pixel
 rmdir pixel
+ls 
