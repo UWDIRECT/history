@@ -5,3 +5,4 @@ source start_history_push.sh
 pwd
 cd tmp
 mkdir zork
+cd zork
