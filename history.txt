@@ -87,3 +87,4 @@ echo $PATH
 sleep 20
 mkdir hcepdb
 cd hcepdb/
+curl -O http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
