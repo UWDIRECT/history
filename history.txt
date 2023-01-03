@@ -61,3 +61,4 @@ cat WSCT8455.JPG
 cd ..
 ls *.py
 cat tmp.py 
+cd pixel/
