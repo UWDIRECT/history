@@ -99,3 +99,4 @@ head HCEPDB_moldata.csv
 head -1 HCEPDB_moldata.csv 
 ls -la
 rm *
+head -1 HCEPDB_moldata.csv 
