@@ -20,3 +20,4 @@ open .
 explorer.exe .
 cd /tmp
 ls ~
+ls .
