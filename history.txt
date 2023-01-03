@@ -4,3 +4,4 @@ exit
 ls history/
 more history/history.txt 
 source history/start_history_tracking.source_me.bash 
+cd tmp
