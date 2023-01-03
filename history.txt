@@ -48,3 +48,4 @@ ls -la
 cat dog.txt 
 more dog.txt 
 nano dog.txt 
+cat dog.txt 
