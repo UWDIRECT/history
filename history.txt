@@ -69,3 +69,4 @@ tail dog.txt
 ls
 cp dog.txt pet.txt
 ls -l
+ls dog.txt 
