@@ -35,3 +35,4 @@ ls -la
 ls
 ls -l
 ls -la
+cd ..
