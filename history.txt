@@ -18,3 +18,4 @@ cd /tmp
 popd &>/dev/null
 vim start_history_push.sh 
 source start_history_push.sh 
+cd tmp/zork/
