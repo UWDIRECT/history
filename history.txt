@@ -39,3 +39,4 @@ cd ..
 rdmir pixel
 rmdir pixel
 ls 
+mkdir pixel
