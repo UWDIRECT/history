@@ -53,3 +53,4 @@ more dog.txt
 less dog.txt 
 ls ../*
 ls ../
+cd ..
