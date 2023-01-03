@@ -62,3 +62,4 @@ cd ..
 ls *.py
 cat tmp.py 
 cd pixel/
+head dog.txt 
