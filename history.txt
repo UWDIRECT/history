@@ -25,3 +25,4 @@ ls
 cd ..
 cd /mnt/c/Users/dacb/Desktop/
 cd ..
+cd Documents/
