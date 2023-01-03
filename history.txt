@@ -11,3 +11,4 @@ pwd
 cd /tmp
 ls
 cd
+cd /tmp
