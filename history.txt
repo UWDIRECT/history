@@ -21,3 +21,4 @@ source start_history_push.sh
 cd tmp/zork/
 ls
 vim this_is_another_test.txt
+git add this_is_another_test.txt 
