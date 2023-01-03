@@ -94,3 +94,4 @@ ls -la
 ls -lh
 unzip HCEPDB_moldata.zip 
 ls -lh
+cat HCEPDB_moldata.csv 
