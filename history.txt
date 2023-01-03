@@ -76,3 +76,4 @@ cp dog.txt pet.txt
 curl --help
 python --help
 cd ..
+rmdir pixel
