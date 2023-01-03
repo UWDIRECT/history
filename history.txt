@@ -46,3 +46,4 @@ ls -la
 nano dog.txt 
 ls -la
 cat dog.txt 
+more dog.txt 
