@@ -20,3 +20,4 @@ vim start_history_push.sh
 source start_history_push.sh 
 cd tmp/zork/
 ls
+vim this_is_another_test.txt
