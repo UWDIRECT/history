@@ -79,3 +79,4 @@ cd ..
 rmdir pixel
 cd pixel/
 ls
+rm *.txt
