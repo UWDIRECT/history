@@ -21,3 +21,4 @@ explorer.exe .
 cd /tmp
 ls ~
 ls .
+ls 
