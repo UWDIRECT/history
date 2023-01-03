@@ -9,3 +9,5 @@ cd zork
 git init
 touch foo
 git add foo 
+git commit -m "nothing" foo"
+"
