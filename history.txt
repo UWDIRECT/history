@@ -3,3 +3,4 @@ nano --help
 conda --help
 source start_history_push.sh 
 pwd
+cd tmp
