@@ -64,3 +64,4 @@ cat tmp.py
 cd pixel/
 head dog.txt 
 head -1 dog.txt 
+head -2 dog.txt 
