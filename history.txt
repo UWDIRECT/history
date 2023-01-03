@@ -14,3 +14,4 @@ cd history
 git log
 git push
 git pull
+cd
