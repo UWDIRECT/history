@@ -36,3 +36,4 @@ ls
 ls -l
 ls -la
 cd ..
+rdmir pixel
