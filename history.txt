@@ -50,3 +50,4 @@ more dog.txt
 nano dog.txt 
 cat dog.txt 
 more dog.txt 
+less dog.txt 
