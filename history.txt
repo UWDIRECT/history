@@ -19,3 +19,4 @@ ls /mnt/c/Users/dacb/Desktop/
 open .
 explorer.exe .
 cd /tmp
+ls ~
