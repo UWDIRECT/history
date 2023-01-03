@@ -1,1 +1,2 @@
 source history/start_history_tracking.source_me.bash 
+ls
