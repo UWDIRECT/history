@@ -81,3 +81,4 @@ cd pixel/
 ls
 rm *.txt
 cd ..
+rmdir pixel
