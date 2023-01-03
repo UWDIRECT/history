@@ -13,3 +13,4 @@ more history/history.txt
 cd history
 git log
 git push
+git pull
