@@ -55,3 +55,4 @@ ls ../*
 ls ../
 cd ..
 cd 2021\ Plant\ Cam/
+ls
