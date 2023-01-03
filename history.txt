@@ -83,3 +83,4 @@ rm *.txt
 cd ..
 rmdir pixel
 kjgdfhfksjhfds
+echo $PATH
