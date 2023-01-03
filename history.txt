@@ -8,3 +8,4 @@ ls -lh
 ls /tmp
 ls -l /
 pwd
+cd /tmp
