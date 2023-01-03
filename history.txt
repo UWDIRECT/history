@@ -6,3 +6,4 @@ ls
 ls -l
 ls -lh
 ls /tmp
+ls -l /
