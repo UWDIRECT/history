@@ -11,3 +11,4 @@ cd ~/
 ls history/
 more history/history.txt 
 cd history
+git log
