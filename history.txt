@@ -44,3 +44,4 @@ cd pixel
 touch dog.txt
 ls -la
 nano dog.txt 
+ls -la
