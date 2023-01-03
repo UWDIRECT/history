@@ -6,3 +6,4 @@ pwd
 cd tmp
 mkdir zork
 cd zork
+git init
