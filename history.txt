@@ -34,3 +34,4 @@ cd pixel
 ls -la
 ls
 ls -l
+ls -la
