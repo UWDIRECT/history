@@ -10,3 +10,4 @@ ls -l /
 pwd
 cd /tmp
 ls
+cd
