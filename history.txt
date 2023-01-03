@@ -16,3 +16,4 @@ cd ~
 pwd
 ls Desktop
 ls /mnt/c/Users/dacb/Desktop/
+open .
