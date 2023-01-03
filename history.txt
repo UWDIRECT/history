@@ -7,3 +7,4 @@ source history/start_history_tracking.source_me.bash
 cd tmp
 cd zork
 ls
+cd ~/
