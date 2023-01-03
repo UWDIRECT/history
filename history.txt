@@ -10,3 +10,4 @@ ls
 cd ~/
 ls history/
 more history/history.txt 
+cd history
