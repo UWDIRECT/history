@@ -43,3 +43,4 @@ mkdir pixel
 cd pixel
 touch dog.txt
 ls -la
+nano dog.txt 
