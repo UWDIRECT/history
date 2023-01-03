@@ -67,3 +67,4 @@ head -1 dog.txt
 head -2 dog.txt 
 tail dog.txt 
 ls
+cp dog.txt pet.txt
