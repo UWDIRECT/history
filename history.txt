@@ -9,3 +9,4 @@ ls /tmp
 ls -l /
 pwd
 cd /tmp
+ls
