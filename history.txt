@@ -11,3 +11,10 @@ touch foo
 git add foo 
 git commit -m "nothing" foo"
 "
+exit
+vim start_history_push.sh 
+pushd . &>/dev/null
+cd /tmp
+popd &>/dev/null
+vim start_history_push.sh 
+source start_history_push.sh 
