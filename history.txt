@@ -31,3 +31,4 @@ cd ../../../
 cd 
 mkdir pixel
 cd pixel
+ls -la
