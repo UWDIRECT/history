@@ -27,3 +27,4 @@ cd /mnt/c/Users/dacb/Desktop/
 cd ..
 cd Documents/
 ls -l
+cd ../../../
