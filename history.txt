@@ -74,3 +74,4 @@ rm pet.txt
 rm -i pet.txt
 cp dog.txt pet.txt
 curl --help
+python --help
