@@ -33,3 +33,4 @@ mkdir pixel
 cd pixel
 ls -la
 ls
+ls -l
