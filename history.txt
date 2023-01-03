@@ -70,3 +70,4 @@ ls
 cp dog.txt pet.txt
 ls -l
 ls dog.txt 
+rm pet.txt 
