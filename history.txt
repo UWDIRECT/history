@@ -92,3 +92,4 @@ curl http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
 curl http://www.google.com
 ls -la
 ls -lh
+unzip HCEPDB_moldata.zip 
