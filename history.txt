@@ -93,3 +93,4 @@ curl http://www.google.com
 ls -la
 ls -lh
 unzip HCEPDB_moldata.zip 
+ls -lh
