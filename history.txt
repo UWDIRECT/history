@@ -72,3 +72,4 @@ ls -l
 ls dog.txt 
 rm pet.txt 
 rm -i pet.txt
+cp dog.txt pet.txt
