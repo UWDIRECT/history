@@ -56,3 +56,4 @@ ls ../
 cd ..
 cd 2021\ Plant\ Cam/
 ls
+cat WSCT8455.JPG
