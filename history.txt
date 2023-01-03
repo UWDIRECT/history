@@ -60,3 +60,4 @@ cat WSCT8455.JPG
 1;0c1;0c1;0c1;0c1;0c1;0c1;0c
 cd ..
 ls *.py
+cat tmp.py 
