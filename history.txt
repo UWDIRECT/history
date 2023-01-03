@@ -13,3 +13,4 @@ ls
 cd
 cd /tmp
 cd ~
+pwd
