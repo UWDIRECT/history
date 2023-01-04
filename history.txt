@@ -104,3 +104,4 @@ ls -la
 cat /etc/passwd
 useradd --help
 useradd -h
+useradd -D
