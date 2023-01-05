@@ -173,3 +173,4 @@ bash
 bash download_hcepdb.bash 
 cd HCEPDB/
 ls -la
+source history/start_history_tracking.source_me.bash 
