@@ -159,3 +159,4 @@ echo "I love cake"
 bc 
 quit
 head -2 HCEPDB_moldata.csv | tail -1
+wc -l HCEPDB_moldata.csv 
