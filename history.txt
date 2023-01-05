@@ -185,3 +185,4 @@ gvim
 sudo apt install vim-gtk3
 gvim
 source history/start_history_tracking.source_me.bash 
+ls
