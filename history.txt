@@ -109,3 +109,4 @@ git push
 source start_history_tracking.source_me.bash 
 echo "Thursday 1.5.2023"
 echo Dave Evan Nels
+echo "Dave Evan Nels"
