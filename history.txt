@@ -167,3 +167,4 @@ rm HCEPDB_moldata.*
 cd ..
 rmdir hcepdb/
 nano download_hcepdb.bash
+cat download_hcepdb.bash 
