@@ -190,3 +190,4 @@ explorer.exe 2021\ Plant\ Cam/WSCT8064.JPG
 conda update conda
 conda install jupyter notebook
 echo this is a shell
+curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L2.Simple_Breakout.ipynb
