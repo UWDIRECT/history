@@ -129,3 +129,4 @@ bc
 echo "3+3" | bc
 rm filename.txt 
 echo "Dave Evan Nels" > filename.txt
+cat filename.txt 
