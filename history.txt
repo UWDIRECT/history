@@ -101,3 +101,9 @@ ls -la
 rm *
 head -1 HCEPDB_moldata.csv 
 ls -la
+cd history/
+vim history.txt 
+git add history.txt 
+git commit -m "removed some commands that I was using after class to show students how to manage ubuntu install"
+git push
+source start_history_tracking.source_me.bash 
