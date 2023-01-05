@@ -178,3 +178,10 @@ telnet www.google.com 80
 conda
 exit
 nano ../download_hcepdb.bash 
+nano download_hcepdb.bash 
+gvim
+sudo apt install vim
+gvim
+sudo apt install vim-gtk3
+gvim
+source history/start_history_tracking.source_me.bash 
