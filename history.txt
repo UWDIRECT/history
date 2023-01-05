@@ -165,3 +165,4 @@ wc -c HCEPDB_moldata.csv
 ls
 rm HCEPDB_moldata.*
 cd ..
+rmdir hcepdb/
