@@ -186,3 +186,4 @@ sudo apt install vim-gtk3
 gvim
 source history/start_history_tracking.source_me.bash 
 ls
+explorer.exe 2021\ Plant\ Cam/WSCT8064.JPG 
