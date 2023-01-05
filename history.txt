@@ -146,3 +146,4 @@ rm filename.txt
 rm HCEPDB_moldata.zip 
 mkdir hcepdb
 cd hcepdb/
+ls -la
