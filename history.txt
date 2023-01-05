@@ -140,3 +140,4 @@ curl www.google.com
 curl www.google.com > google.html
 explorer.exe google.html 
 history | grep zip
+grep Pixel filename.txt 
