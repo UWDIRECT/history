@@ -114,3 +114,4 @@ cd
 touch Pixel Galaxy 
 ls -la Pixel Galaxy 
 touch "Pixel Galaxy"
+ls -l P*
