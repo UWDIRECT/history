@@ -171,3 +171,4 @@ cat download_hcepdb.bash
 exit
 bash
 bash download_hcepdb.bash 
+cd HCEPDB/
