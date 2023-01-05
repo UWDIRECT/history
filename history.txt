@@ -111,3 +111,4 @@ echo "Thursday 1.5.2023"
 echo Dave Evan Nels
 echo "Dave Evan Nels"
 cd
+touch Pixel Galaxy 
