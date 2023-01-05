@@ -149,3 +149,4 @@ cd hcepdb/
 ls -la
 touch .hidden
 ls
+ls -la
