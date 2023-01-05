@@ -151,3 +151,4 @@ touch .hidden
 ls
 ls -la
 rm .hidden 
+curl -O http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
