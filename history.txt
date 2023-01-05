@@ -116,3 +116,4 @@ ls -la Pixel Galaxy
 touch "Pixel Galaxy"
 ls -l P*
 touch galaxy.png
+explorer.exe galaxy.png 
