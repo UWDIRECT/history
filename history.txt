@@ -145,3 +145,4 @@ curl -O http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
 rm filename.txt 
 rm HCEPDB_moldata.zip 
 mkdir hcepdb
+cd hcepdb/
