@@ -162,3 +162,4 @@ head -2 HCEPDB_moldata.csv | tail -1
 wc -l HCEPDB_moldata.csv 
 wc -c HCEPDB_moldata.
 wc -c HCEPDB_moldata.csv 
+ls
