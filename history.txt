@@ -154,3 +154,4 @@ rm .hidden
 curl -O http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
 ls 
 unzip HCEPDB_moldata.zip 
+head -1 HCEPDB_moldata.csv 
