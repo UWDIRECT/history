@@ -125,3 +125,4 @@ cat filename.txt
 history
 echo "Dave Evan Nels"
 echo "Dave Evan Nels" | cat
+bc
