@@ -121,3 +121,4 @@ rm Pixel\ Galaxy
 rm Pixel Galaxy 
 echo "Dave Evan Nels"
 echo "Dave Evan Nels" > filename.txt
+cat filename.txt 
