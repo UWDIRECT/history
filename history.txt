@@ -126,3 +126,4 @@ history
 echo "Dave Evan Nels"
 echo "Dave Evan Nels" | cat
 bc
+echo "3+3" | bc
