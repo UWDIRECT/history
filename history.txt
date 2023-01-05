@@ -156,3 +156,4 @@ ls
 unzip HCEPDB_moldata.zip 
 head -1 HCEPDB_moldata.csv 
 echo "I love cake"
+bc 
