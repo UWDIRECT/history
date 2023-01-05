@@ -170,3 +170,4 @@ nano download_hcepdb.bash
 cat download_hcepdb.bash 
 exit
 bash
+bash download_hcepdb.bash 
