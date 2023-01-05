@@ -148,3 +148,4 @@ mkdir hcepdb
 cd hcepdb/
 ls -la
 touch .hidden
+ls
