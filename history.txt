@@ -147,3 +147,4 @@ rm HCEPDB_moldata.zip
 mkdir hcepdb
 cd hcepdb/
 ls -la
+touch .hidden
