@@ -172,3 +172,4 @@ exit
 bash
 bash download_hcepdb.bash 
 cd HCEPDB/
+ls -la
