@@ -135,3 +135,4 @@ cat filename.txt
 echo "Dave Evan Nels" >> filename.txt
 cat filename.txt 
 cat < filename.txt
+cat filename.txt 
