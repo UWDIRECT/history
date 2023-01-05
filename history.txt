@@ -163,3 +163,4 @@ wc -l HCEPDB_moldata.csv
 wc -c HCEPDB_moldata.
 wc -c HCEPDB_moldata.csv 
 ls
+rm HCEPDB_moldata.*
