@@ -222,3 +222,4 @@ git status
 git add mars.txt
 git commit -m "start of notes on mars"
 git status
+git log
