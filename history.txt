@@ -238,3 +238,4 @@ git add venus.txt
 git commit -m "added new empty file about another planet"
 nano mars.txt 
 git add mars.txt 
+git commt -m "added a few more lines for demo sake"
