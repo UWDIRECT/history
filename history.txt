@@ -309,3 +309,4 @@ ls -la
 git checkout
 ls -la
 git checkout HEAD~1
+ls
