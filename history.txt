@@ -354,3 +354,4 @@ ls
 jupyter notebook HW1.ipynb 
 cd ../dscmcer-hw-1-dacb/
 ls -la
+git add HW1.ipynb 
