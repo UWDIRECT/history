@@ -226,3 +226,4 @@ git log
 nano mars.txt 
 git status
 git diff
+git add mars.txt 
