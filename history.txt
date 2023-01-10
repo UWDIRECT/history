@@ -211,3 +211,4 @@ mkdir planets
 cd planets/
 la -la
 git init
+ls -la
