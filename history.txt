@@ -260,3 +260,4 @@ uname -A
 uname -S
 uname --help
 uname -a
+git status
