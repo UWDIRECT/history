@@ -215,3 +215,4 @@ ls -la
 ls -la .git/
 ls ~/.gitconfig 
 cat ~/.gitconfig 
+git status
