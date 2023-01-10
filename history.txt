@@ -342,3 +342,4 @@ echo "https://docs.github.com/en/authentication/connecting-to-github-with-ssh/ge
 cat ~/.ssh/id_ed25519.pub 
 ssh -T git@github.com
 ssh 128.208.236.235
+ssh -T git@github.com
