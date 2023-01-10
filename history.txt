@@ -263,3 +263,4 @@ uname -a
 git status
 exit
 source history/start_history_tracking.source_me.bash 
+cd planets/
