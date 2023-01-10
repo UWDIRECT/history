@@ -321,3 +321,4 @@ ls -la
 git status
 nano .gitignore
 cat .gitignore 
+git status
