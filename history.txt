@@ -208,3 +208,4 @@ ls
 \rm -rf planets/
 cd ~
 mkdir planets
+cd planets/
