@@ -250,3 +250,4 @@ git log
 kh
 git log
 sleep 1-
+sleep 10
