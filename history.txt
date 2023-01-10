@@ -334,3 +334,4 @@ git status
 ls -la
 nano mars.txt 
 git add mars.txt 
+git status
