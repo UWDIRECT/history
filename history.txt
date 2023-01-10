@@ -302,3 +302,4 @@ git checkout HEAD
 cat mars.txt 
 git log
 ls -la
+git checkout e59f4e99a
