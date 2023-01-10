@@ -314,3 +314,4 @@ git checkout master
 ls -la
 cat mars.txt 
 git log
+ls
