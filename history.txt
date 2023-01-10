@@ -298,3 +298,4 @@ git checkout HEAD~4 mars.txt
 cat mars.txt 
 git checkout
 cat mars.txt 
+git checkout HEAD
