@@ -286,3 +286,4 @@ git log
 cat mars.txt 
 git checkout 0c874040e81f0655d3714d24f80fe0f23f11525d marrss.txt
 git checkout 0c874040e81f0655d3714d24f80fe0f23f11525d mars.txt
+cat mars.txt 
