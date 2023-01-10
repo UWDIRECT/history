@@ -224,3 +224,4 @@ git commit -m "start of notes on mars"
 git status
 git log
 nano mars.txt 
+git status
