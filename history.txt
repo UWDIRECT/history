@@ -243,3 +243,4 @@ git commit -m "added a few more lines for demo sake"
 git mv venus.txt mercury.txt
 git status
 git commit -m "example of moving file"
+git rm mercury.txt 
