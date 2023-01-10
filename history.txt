@@ -266,3 +266,4 @@ source history/start_history_tracking.source_me.bash
 cd planets/
 git status
 rm kskjfss 
+git diff
