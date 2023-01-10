@@ -331,3 +331,4 @@ git add .gitignore
 git commit -m 
 git commit -m  "added basic gitignore"
 git status
+ls -la
