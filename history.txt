@@ -336,3 +336,4 @@ nano mars.txt
 git add mars.txt 
 git status
 git reset HEAD -- .
+cat mars.txt 
