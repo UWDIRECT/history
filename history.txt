@@ -315,3 +315,4 @@ ls -la
 cat mars.txt 
 git log
 ls
+touch file1.dat
