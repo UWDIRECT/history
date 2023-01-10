@@ -326,3 +326,4 @@ nano .gitignore
 cat .gitignore 
 git status
 touch pleasedontignoreme.dat
+git status
