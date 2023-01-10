@@ -269,3 +269,4 @@ rm kskjfss
 git diff
 nano mars.txt 
 git diff
+git diff HEAD
