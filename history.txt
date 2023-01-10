@@ -195,3 +195,4 @@ ping www.google.com
 jupyter notebook
 source history/start_history_tracking.source_me.bash 
 echo `date`
+git --help
