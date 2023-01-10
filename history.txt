@@ -207,3 +207,4 @@ git config --list
 ls
 \rm -rf planets/
 cd ~
+mkdir planets
