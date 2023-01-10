@@ -349,3 +349,4 @@ cd dscmcer-hw-1-dacb/
 ls -la
 more README.md 
 ls
+more ISSUE_TEMPLATE.md 
