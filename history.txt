@@ -209,3 +209,4 @@ ls
 cd ~
 mkdir planets
 cd planets/
+la -la
