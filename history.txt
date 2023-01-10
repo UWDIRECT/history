@@ -231,3 +231,4 @@ git commit -m "fixed up some bad info about actors"
 git status
 git log
 mkdir habitable
+git add habitable/
