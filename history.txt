@@ -201,3 +201,4 @@ git config --global user.name "Dave Beck"
 git config --global user.email "dacb@uw.edu"
 git config --global core.autocrlf input
 git config --list
+git config --global core.editor "nano -w"
