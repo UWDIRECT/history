@@ -283,3 +283,4 @@ git checkout mars.txt HEAD~5
 git checkout HEAD~5 mars.txt
 cat mars.txt 
 git log
+cat mars.txt 
