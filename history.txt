@@ -257,3 +257,4 @@ env | grep PAGE
 git --version
 sudo apt-get update git
 uname -A
+uname -S
