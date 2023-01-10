@@ -227,3 +227,4 @@ nano mars.txt
 git status
 git diff
 git add mars.txt 
+git commit -m "fixed up some bad info about actors"
