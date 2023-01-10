@@ -229,3 +229,4 @@ git diff
 git add mars.txt 
 git commit -m "fixed up some bad info about actors"
 git status
+git log
