@@ -254,3 +254,4 @@ sleep 10
 git log
 env
 env | grep PAGE
+git --version
