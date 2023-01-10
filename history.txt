@@ -277,3 +277,4 @@ git diff HEAD~4
 git diff HEAD~5
 git diff HEAD~7
 git diff HEAD~6
+git checkout mars.txt
