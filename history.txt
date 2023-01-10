@@ -317,3 +317,4 @@ git log
 ls
 touch file1.dat
 touch file2.dat
+ls -la
