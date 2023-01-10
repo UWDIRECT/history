@@ -324,3 +324,4 @@ cat .gitignore
 git status
 nano .gitignore
 cat .gitignore 
+git status
