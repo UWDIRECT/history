@@ -329,3 +329,4 @@ touch pleasedontignoreme.dat
 git status
 git add .gitignore 
 git commit -m 
+git commit -m  "added basic gitignore"
