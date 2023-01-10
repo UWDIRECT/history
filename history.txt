@@ -279,3 +279,4 @@ git diff HEAD~7
 git diff HEAD~6
 git checkout mars.txt
 cat mars.txt 
+git checkout mars.txt HEAD~5
