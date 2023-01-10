@@ -205,3 +205,4 @@ git config --global core.editor "nano -w"
 nano --help
 git config --list
 ls
+\rm -rf planets/
