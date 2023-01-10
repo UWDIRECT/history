@@ -259,3 +259,4 @@ sudo apt-get update git
 uname -A
 uname -S
 uname --help
+uname -a
