@@ -236,3 +236,4 @@ git commit -m "added habitable directory"
 touch venus.txt
 git add venus.txt 
 git commit -m "added new empty file about another planet"
+nano mars.txt 
