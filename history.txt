@@ -197,3 +197,4 @@ source history/start_history_tracking.source_me.bash
 echo `date`
 git --help
 git config
+git config --global user.name "Dave Beck"
