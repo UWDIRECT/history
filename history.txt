@@ -198,3 +198,4 @@ echo `date`
 git --help
 git config
 git config --global user.name "Dave Beck"
+git config --global user.email "dacb@uw.edu"
