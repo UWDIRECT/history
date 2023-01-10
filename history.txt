@@ -220,3 +220,4 @@ nano mars.txt
 cat mars.txt 
 git status
 git add mars.txt
+git commit -m "start of notes on mars"
