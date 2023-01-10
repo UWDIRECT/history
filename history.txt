@@ -218,3 +218,4 @@ cat ~/.gitconfig
 git status
 nano mars.txt
 cat mars.txt 
+git status
