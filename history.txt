@@ -268,3 +268,4 @@ git status
 rm kskjfss 
 git diff
 nano mars.txt 
+git diff
