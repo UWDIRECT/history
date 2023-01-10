@@ -293,3 +293,4 @@ git checkout 2cfd6bcbac8 mars.txt
 cat mars.txt 
 git checkout HEAD mars.txt
 cat mars.txt 
+git diff HEAD~4 mars.txt
