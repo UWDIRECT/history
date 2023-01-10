@@ -353,3 +353,4 @@ more ISSUE_TEMPLATE.md
 ls
 jupyter notebook HW1.ipynb 
 cd ../dscmcer-hw-1-dacb/
+ls -la
