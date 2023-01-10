@@ -333,3 +333,4 @@ git commit -m  "added basic gitignore"
 git status
 ls -la
 nano mars.txt 
+git add mars.txt 
