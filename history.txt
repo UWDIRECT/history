@@ -216,3 +216,4 @@ ls -la .git/
 ls ~/.gitconfig 
 cat ~/.gitconfig 
 git status
+nano mars.txt
