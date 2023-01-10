@@ -192,3 +192,5 @@ conda install jupyter notebook
 echo this is a shell
 curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L2.Simple_Breakout.ipynb
 ping www.google.com
+jupyter notebook
+source history/start_history_tracking.source_me.bash 
