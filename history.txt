@@ -345,3 +345,4 @@ ssh 128.208.236.235
 ssh -T git@github.com
 cd 
 git clone git@github.com:UWDIRECT-2023/dscmcer-hw-1-dacb.git
+cd dscmcer-hw-1-dacb/
