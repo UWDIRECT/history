@@ -267,3 +267,4 @@ cd planets/
 git status
 rm kskjfss 
 git diff
+nano mars.txt 
