@@ -299,3 +299,4 @@ cat mars.txt
 git checkout
 cat mars.txt 
 git checkout HEAD
+cat mars.txt 
