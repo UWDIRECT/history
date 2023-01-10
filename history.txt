@@ -204,3 +204,4 @@ git config --list
 git config --global core.editor "nano -w"
 nano --help
 git config --list
+ls
