@@ -356,3 +356,4 @@ cd ../dscmcer-hw-1-dacb/
 ls -la
 git add HW1.ipynb 
 git commit -m "homework submission, yo"
+git push
