@@ -246,3 +246,4 @@ git commit -m "example of moving file"
 git rm mercury.txt 
 git status
 git commit -m "I do mean to remove this file yall"
+git log
