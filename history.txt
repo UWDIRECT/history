@@ -361,3 +361,4 @@ git status
 echo ".ipynb_checkpoints" > .gitignore
 git status
 source history/start_history_tracking.source_me.bash 
+echo `date`
