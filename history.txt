@@ -362,3 +362,4 @@ echo ".ipynb_checkpoints" > .gitignore
 git status
 source history/start_history_tracking.source_me.bash 
 echo `date`
+echo https://github.com/dacb/what_is_a_hotdog
