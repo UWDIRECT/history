@@ -366,3 +366,4 @@ echo https://github.com/dacb/what_is_a_hotdog
 ls
 curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L5.Procedural_Python.ipynb
 ls -l L5.Procedural_Python.ipynb 
+cat L5.Procedural_Python.ipynb 
