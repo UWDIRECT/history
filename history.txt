@@ -368,3 +368,5 @@ curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi2
 ls -l L5.Procedural_Python.ipynb 
 cat L5.Procedural_Python.ipynb 
 jupyter notebook
+cd history/
+source start_history_tracking.source_me.bash 
