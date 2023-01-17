@@ -374,3 +374,4 @@ echo `date`
 echo Tue Jan 17 11:33:28 PST 2023
 date
 echo `date`
+echo `echo why would I ever do this`
