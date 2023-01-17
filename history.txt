@@ -370,3 +370,4 @@ cat L5.Procedural_Python.ipynb
 jupyter notebook
 cd history/
 source start_history_tracking.source_me.bash 
+echo `date`
