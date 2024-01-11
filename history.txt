@@ -402,3 +402,4 @@ bash setup.bash
 ls
 ls -l
 CD HCEPDB/
+cd HCEPDB/
