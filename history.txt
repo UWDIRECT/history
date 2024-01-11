@@ -388,3 +388,4 @@ cat setup.bash
 ls hcepdv
 ls hcepdb
 rm hcepdvb
+rm hcepdb
