@@ -406,3 +406,4 @@ cd HCEPDB/
 ls
 ls -la
 ls -lh
+cat README.txt 
