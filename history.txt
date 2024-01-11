@@ -411,3 +411,4 @@ cd ..
 bash setup.bash 
 git
 git config
+git config --global user.name "Dave Beck"
