@@ -416,3 +416,4 @@ git config --global user.email "dacb@uw.edu"
 git config --global core.autocrlf input
 git config --global core.editor "nano -w"
 git config --list
+git config --help
