@@ -375,3 +375,10 @@ echo Tue Jan 17 11:33:28 PST 2023
 date
 echo `date`
 echo `echo why would I ever do this`
+w
+ls
+git clone git@github.com:UWDIRECT/history.git
+cd history/
+ls
+cd..
+source start_history_tracking.source_me.bash 
