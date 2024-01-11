@@ -397,3 +397,4 @@ rm hcepdb/*.csv
 ls hcepdb
 rm hcepdb/*
 rmdir hcepdb
+cat setup.bash 
