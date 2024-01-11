@@ -426,3 +426,4 @@ ls -la .git/
 git status
 touch mars.txt
 ls -la
+git add mars.txt 
