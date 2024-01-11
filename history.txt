@@ -399,3 +399,4 @@ rm hcepdb/*
 rmdir hcepdb
 cat setup.bash 
 bash setup.bash 
+ls
