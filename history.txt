@@ -391,3 +391,4 @@ rm hcepdvb
 rm hcepdb
 rmdir hcepdv
 rmdir hcepdb
+rm hcepdb/README.txt hcepdb/index.html
