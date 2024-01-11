@@ -410,3 +410,4 @@ cat README.txt
 cd ..
 bash setup.bash 
 git
+git config
