@@ -429,3 +429,4 @@ ls -la
 git add mars.txt 
 git commit
 git status
+nano mars.txt 
