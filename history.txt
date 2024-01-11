@@ -405,3 +405,4 @@ CD HCEPDB/
 cd HCEPDB/
 ls
 ls -la
+ls -lh
