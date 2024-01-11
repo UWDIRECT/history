@@ -428,3 +428,4 @@ touch mars.txt
 ls -la
 git add mars.txt 
 git commit
+git status
