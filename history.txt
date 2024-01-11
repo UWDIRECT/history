@@ -404,3 +404,4 @@ ls -l
 CD HCEPDB/
 cd HCEPDB/
 ls
+ls -la
