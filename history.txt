@@ -396,3 +396,4 @@ ls hcepdb
 rm hcepdb/*.csv
 ls hcepdb
 rm hcepdb/*
+rmdir hcepdb
