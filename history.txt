@@ -439,3 +439,4 @@ git status
 git diff mars.txt
 git add mars.txt 
 git commit -m "fixed up movie star name, I think"
+git log
