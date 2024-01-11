@@ -390,3 +390,4 @@ ls hcepdb
 rm hcepdvb
 rm hcepdb
 rmdir hcepdv
+rmdir hcepdb
