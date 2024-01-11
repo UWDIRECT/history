@@ -383,3 +383,4 @@ ls
 cd..
 source start_history_tracking.source_me.bash 
 cd
+nano setup.bash
