@@ -422,3 +422,4 @@ cd planets/
 ls -la
 git init 
 ls -la
+ls -la .git/
