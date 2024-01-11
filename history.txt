@@ -420,3 +420,4 @@ git config --help
 mkdir planets
 cd planets/
 ls -la
+git init 
