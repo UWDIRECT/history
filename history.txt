@@ -425,3 +425,4 @@ ls -la
 ls -la .git/
 git status
 touch mars.txt
+ls -la
