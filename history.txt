@@ -418,3 +418,4 @@ git config --global core.editor "nano -w"
 git config --list
 git config --help
 mkdir planets
+cd planets/
