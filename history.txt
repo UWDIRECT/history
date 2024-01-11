@@ -431,3 +431,4 @@ git commit
 git status
 nano mars.txt 
 git status
+git add mars.txt 
