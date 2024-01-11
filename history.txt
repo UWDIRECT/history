@@ -385,3 +385,4 @@ source start_history_tracking.source_me.bash
 cd
 nano setup.bash
 cat setup.bash 
+ls hcepdv
