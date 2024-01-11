@@ -393,3 +393,4 @@ rmdir hcepdv
 rmdir hcepdb
 rm hcepdb/README.txt hcepdb/index.html
 ls hcepdb
+rm hcepdb/*.csv
