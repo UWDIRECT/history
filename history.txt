@@ -435,3 +435,4 @@ git add mars.txt
 git commit -m "added a line about movies with Mars in it"
 git status
 nano mars.txt 
+git status
