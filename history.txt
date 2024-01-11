@@ -424,3 +424,4 @@ git init
 ls -la
 ls -la .git/
 git status
+touch mars.txt
