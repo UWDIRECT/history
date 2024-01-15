@@ -467,3 +467,4 @@ git checkout HEAD~2 mars.txt
 cat mars.txt 
 git checkout HEAD~3 mars.txt
 cat mars.txt 
+nano mars.txt 
