@@ -496,3 +496,4 @@ cd
 cd ~
 ssh-keygen -t ed25519 -C "dacb@uw.edu"
 ls -la ~/.ssh
+ssh -T git@github.com
