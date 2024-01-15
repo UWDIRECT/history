@@ -459,3 +459,4 @@ git checkout HEAD mars.txt
 git diff
 git status
 pwd 
+ls -la
