@@ -494,3 +494,4 @@ ls -la
 git log mars_movie.txt
 cd
 cd ~
+ssh-keygen -t ed25519 -C "dacb@uw.edu"
