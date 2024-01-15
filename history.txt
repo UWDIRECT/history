@@ -470,3 +470,4 @@ cat mars.txt
 nano mars.txt 
 git status
 git add mars.txt 
+git commit -m "sup"
