@@ -442,3 +442,4 @@ git commit -m "fixed up movie star name, I think"
 git log
 git diff
 git status
+nano mars.txt 
