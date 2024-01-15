@@ -489,3 +489,4 @@ git status
 git rm venus.txt 
 git mv mars.txt mars_movie.txt
 git status
+git commit -m "git mv demo example"
