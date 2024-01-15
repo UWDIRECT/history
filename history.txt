@@ -457,3 +457,4 @@ cat mars.txt
 rm mars.txt 
 git checkout HEAD mars.txt
 git diff
+git status
