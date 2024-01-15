@@ -484,3 +484,4 @@ git status
 git add .gitignore 
 git commit -m "added some example ignore entries"
 git status
+touch exp42.dat
