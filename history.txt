@@ -486,3 +486,4 @@ git commit -m "added some example ignore entries"
 git status
 touch exp42.dat
 git status
+git rm venus.txt 
