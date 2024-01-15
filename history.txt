@@ -445,3 +445,4 @@ git status
 nano mars.txt 
 git diff
 git diff HEAD mars.txt
+git diff HEAD~1 mars.txt
