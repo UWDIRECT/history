@@ -465,3 +465,4 @@ git checkout HEAD~1 mars.txt
 cat mars.txt 
 git checkout HEAD~2 mars.txt
 cat mars.txt 
+git checkout HEAD~3 mars.txt
