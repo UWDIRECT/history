@@ -468,3 +468,4 @@ cat mars.txt
 git checkout HEAD~3 mars.txt
 cat mars.txt 
 nano mars.txt 
+git status
