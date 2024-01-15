@@ -481,3 +481,4 @@ git status
 nano .gitignore
 ls -la
 git status
+git add .gitignore 
