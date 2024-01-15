@@ -449,3 +449,4 @@ git diff HEAD~1 mars.txt
 git diff HEAD~2 mars.txt
 git log
 nano venus.txt
+git commit *.txt -m "this is a bad commit message"
