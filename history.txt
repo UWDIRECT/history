@@ -472,3 +472,4 @@ git status
 git add mars.txt 
 git commit -m "sup"
 git diff
+git diff HEAD~1 master 
