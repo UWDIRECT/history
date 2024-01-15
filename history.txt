@@ -453,3 +453,4 @@ git commit *.txt -m "this is a bad commit message"
 git status
 git add venus.txt 
 git commit *.txt -m "this is a bad commit message"
+cat mars.txt 
