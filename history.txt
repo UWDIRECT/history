@@ -448,3 +448,4 @@ git diff HEAD mars.txt
 git diff HEAD~1 mars.txt
 git diff HEAD~2 mars.txt
 git log
+nano venus.txt
