@@ -460,3 +460,4 @@ git diff
 git status
 pwd 
 ls -la
+rm mars.txt 
