@@ -443,3 +443,4 @@ git log
 git diff
 git status
 nano mars.txt 
+git diff
