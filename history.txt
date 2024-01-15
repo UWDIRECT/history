@@ -488,3 +488,4 @@ touch exp42.dat
 git status
 git rm venus.txt 
 git mv mars.txt mars_movie.txt
+git status
