@@ -473,3 +473,4 @@ git add mars.txt
 git commit -m "sup"
 git diff
 git diff HEAD~1 master 
+git diff HEAD~1 mars.txt
