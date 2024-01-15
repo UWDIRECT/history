@@ -476,3 +476,4 @@ git diff HEAD~1 master
 git diff HEAD~1 mars.txt
 touch file1.dat
 touch file2.dat
+ls -la
