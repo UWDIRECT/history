@@ -492,3 +492,4 @@ git status
 git commit -m "git mv demo example"
 ls -la
 git log mars_movie.txt
+cd
