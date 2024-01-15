@@ -500,3 +500,4 @@ ssh -T git@github.com
 cat ~/.ssh/id_ed25519.pub
 ssh -T git@github.com
 cd planets/
+git remote add origin git@github.com:dacb/planets42.git
