@@ -502,3 +502,4 @@ ssh -T git@github.com
 cd planets/
 git remote add origin git@github.com:dacb/planets42.git
 git branch -M master
+git push -u origin master
