@@ -479,3 +479,4 @@ touch file2.dat
 ls -la
 git status
 nano .gitignore
+ls -la
