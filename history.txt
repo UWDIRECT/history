@@ -462,3 +462,4 @@ pwd
 ls -la
 rm mars.txt 
 git checkout HEAD~1 mars.txt
+cat mars.txt 
