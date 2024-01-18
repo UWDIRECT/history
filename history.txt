@@ -516,3 +516,4 @@ git commit -m "adding the script from the homework, oh yeh"
 git push
 cat README.md 
 git pull
+cat README.md 
