@@ -510,3 +510,4 @@ ls -la
 cat README.md 
 ls ~/setup.bash 
 cat ~/setup.bash 
+mv ../setup.bash setup.sh
