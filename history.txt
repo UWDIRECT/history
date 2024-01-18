@@ -508,3 +508,4 @@ git clone git@github.com:UWDIRECT-2023/semds-hw-1-dacb.git
 cd semds-hw-1-dacb
 ls -la
 cat README.md 
+ls ~/setup.bash 
