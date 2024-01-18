@@ -509,3 +509,4 @@ cd semds-hw-1-dacb
 ls -la
 cat README.md 
 ls ~/setup.bash 
+cat ~/setup.bash 
