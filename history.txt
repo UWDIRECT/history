@@ -512,3 +512,4 @@ ls ~/setup.bash
 cat ~/setup.bash 
 mv ../setup.bash setup.sh
 git add setup.sh 
+git commit -m "adding the script from the homework, oh yeh"
