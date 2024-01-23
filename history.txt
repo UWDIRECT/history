@@ -524,3 +524,4 @@ ls *.ipynb
 head L4.Procedural_Python.ipynb 
 jupyter notebook
 source history/start_history_tracking.source_me.bash 
+ls hcepdb
