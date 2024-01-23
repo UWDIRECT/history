@@ -534,3 +534,4 @@ ls -la
 jupyter notebook L4.Procedural_Python.ipynb 
 cd 
 jupyter notebook
+cd ..
