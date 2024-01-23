@@ -522,3 +522,5 @@ curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi2
 ls -l *.ipnyb
 ls *.ipynb
 head L4.Procedural_Python.ipynb 
+jupyter notebook
+source history/start_history_tracking.source_me.bash 
