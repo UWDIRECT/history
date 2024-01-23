@@ -530,3 +530,4 @@ cd ../HCEPDB/
 ls -lg
 l -lh
 cd ..
+ls -la
