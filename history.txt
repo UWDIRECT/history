@@ -527,3 +527,4 @@ source history/start_history_tracking.source_me.bash
 ls hcepdb
 find ./ -name '*.csv'
 cd ../HCEPDB/
+ls -lg
