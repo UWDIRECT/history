@@ -606,3 +606,4 @@ git checkout HEAD
 ,ls -la
 ls -la
 git diff HEAD
+git diff HEAD~1
