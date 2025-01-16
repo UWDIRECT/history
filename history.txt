@@ -633,3 +633,4 @@ gs
 cp ../mydir/download_HCEPDB.bash .
 git add download_HCEPDB.bash 
 git commit -m "turning it in"
+git push
