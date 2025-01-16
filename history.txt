@@ -580,3 +580,4 @@ git status
 git add recipe_template.md 
 git commit 
 git push 
+git status
