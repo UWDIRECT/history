@@ -616,3 +616,4 @@ cd semds-hw0-dacb/
 ls -la
 cat ISSUE_TEMPLATE.md 
 cat README.md 
+ls ~/
