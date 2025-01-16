@@ -624,3 +624,4 @@ ls HCEPDB
 ls *bas
 ls *bash
 cat script.bash 
+find ./ -name '*.bash'
