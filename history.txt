@@ -547,3 +547,4 @@ ls
 more start_history_tracking.source_me.bash 
 source start_history_tracking.source_me.bash 
 ls
+echo "Dave, use this terminal. It already has history tracking setup."
