@@ -602,3 +602,4 @@ git log 0a0fc913
 git restore faa72207
 git checkout faa72207
 ls -l
+git checkout HEAD
