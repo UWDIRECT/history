@@ -623,3 +623,4 @@ cd ../
 ls HCEPDB
 ls *bas
 ls *bash
+cat script.bash 
