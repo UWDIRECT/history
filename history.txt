@@ -537,3 +537,12 @@ jupyter notebook
 cd ..
 wget https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Procedural_Python.ipynb
 juptyer notebook
+cd history
+ls
+cd ..
+mv history/ history.2024
+git clone git@github.com:UWDIRECT/history.git
+cd history
+ls
+more start_history_tracking.source_me.bash 
+source start_history_tracking.source_me.bash 
