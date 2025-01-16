@@ -603,3 +603,4 @@ git restore faa72207
 git checkout faa72207
 ls -l
 git checkout HEAD
+,ls -la
