@@ -570,3 +570,4 @@ cd /tmp
 git status
 cd
 cd recipelist/
+ls -la .git/
