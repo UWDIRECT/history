@@ -555,3 +555,4 @@ git config --global user.email "dacb@uw.edu"
 git config --list
 nano --help
 git config --list
+git config --global core.autocrlf input
