@@ -604,3 +604,4 @@ git checkout faa72207
 ls -l
 git checkout HEAD
 ,ls -la
+ls -la
