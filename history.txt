@@ -568,3 +568,4 @@ ls -la
 pushd .
 cd /tmp
 git status
+cd
