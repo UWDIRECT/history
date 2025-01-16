@@ -558,3 +558,4 @@ git config --list
 git config --global core.autocrlf input
 git config --global core.editor "nano -w"
 cd /
+cd /tmp
