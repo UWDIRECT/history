@@ -576,3 +576,4 @@ git status
 ls -la ~/.bashrc
 nano recipe_template.md
 cat recipe_template.md 
+git status
