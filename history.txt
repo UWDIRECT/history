@@ -621,3 +621,4 @@ ls HCE
 ls HCEPDB
 cd ../
 ls HCEPDB
+ls *bas
