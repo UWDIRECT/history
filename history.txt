@@ -582,3 +582,4 @@ git commit
 git push 
 git status
 alias gs='git status'
+gs
