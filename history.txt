@@ -622,3 +622,4 @@ ls HCEPDB
 cd ../
 ls HCEPDB
 ls *bas
+ls *bash
