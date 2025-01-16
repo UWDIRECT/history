@@ -595,3 +595,4 @@ git status
 diff guacamole.md recipe_template.md 
 nano guacamole.md 
 git diff guacamole.md
+git  commit -m "added the copyright" guacamole.md 
