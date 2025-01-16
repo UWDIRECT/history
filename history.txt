@@ -631,3 +631,4 @@ cd semds-hw0-dacb/
 ls
 gs
 cp ../mydir/download_HCEPDB.bash .
+git add download_HCEPDB.bash 
