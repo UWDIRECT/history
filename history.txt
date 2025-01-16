@@ -628,3 +628,4 @@ find ./ -name '*.bash'
 cd ../
 cd semds-hw
 cd semds-hw0-dacb/
+ls
