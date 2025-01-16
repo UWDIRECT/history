@@ -569,3 +569,4 @@ pushd .
 cd /tmp
 git status
 cd
+cd recipelist/
