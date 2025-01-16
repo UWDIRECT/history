@@ -574,3 +574,4 @@ ls -la .git/
 git --version
 git status
 ls -la ~/.bashrc
+nano recipe_template.md
