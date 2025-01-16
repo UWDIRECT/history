@@ -581,3 +581,4 @@ git add recipe_template.md
 git commit 
 git push 
 git status
+alias gs='git status'
