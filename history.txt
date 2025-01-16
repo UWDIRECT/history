@@ -607,3 +607,4 @@ git checkout HEAD
 ls -la
 git diff HEAD
 git diff HEAD~1
+git log
