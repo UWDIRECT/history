@@ -588,3 +588,4 @@ cp recipe_template.md guacamole.md
 git status
 nano guacamole.md 
 git add guacamole.md 
+git commit -m "dave made me add this"
