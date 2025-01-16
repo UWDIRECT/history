@@ -601,3 +601,4 @@ git log 0a0fc913a3bed46013902f185156ec0708bdd6df
 git log 0a0fc913
 git restore faa72207
 git checkout faa72207
+ls -l
