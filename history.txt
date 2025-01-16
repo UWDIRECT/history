@@ -571,3 +571,4 @@ git status
 cd
 cd recipelist/
 ls -la .git/
+git --version
