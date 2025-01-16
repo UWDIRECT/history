@@ -598,3 +598,4 @@ git diff guacamole.md
 git  commit -m "added the copyright" guacamole.md 
 git log
 git log 0a0fc913a3bed46013902f185156ec0708bdd6df
+git log 0a0fc913
