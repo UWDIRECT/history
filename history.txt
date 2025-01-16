@@ -591,3 +591,4 @@ git add guacamole.md
 git commit -m "dave made me add this"
 git push
 git commit -m "dave made me add this" guacamole.md 
+git status
