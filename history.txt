@@ -619,3 +619,4 @@ cat README.md
 ls ~/
 ls HCE
 ls HCEPDB
+cd ../
