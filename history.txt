@@ -583,3 +583,4 @@ git push
 git status
 alias gs='git status'
 gs
+git cp recipe_template.md guacamole.md
