@@ -567,3 +567,4 @@ cd recipelist/
 ls -la
 pushd .
 cd /tmp
+git status
