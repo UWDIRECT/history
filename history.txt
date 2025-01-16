@@ -594,3 +594,4 @@ git commit -m "dave made me add this" guacamole.md
 git status
 diff guacamole.md recipe_template.md 
 nano guacamole.md 
+git diff guacamole.md
