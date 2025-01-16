@@ -613,3 +613,4 @@ cd ..
 git clone git@github.com:UWDIRECT-2021/semds-hw0-dacb.git
 cd semds-hw
 cd semds-hw0-dacb/
+ls -la
