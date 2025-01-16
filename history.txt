@@ -608,3 +608,4 @@ ls -la
 git diff HEAD
 git diff HEAD~1
 git log
+git diff HEAD~2
