@@ -573,3 +573,4 @@ cd recipelist/
 ls -la .git/
 git --version
 git status
+ls -la ~/.bashrc
