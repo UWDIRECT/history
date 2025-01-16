@@ -561,3 +561,4 @@ cd /
 cd /tmp
 git config --global core.editor "nano -w"
 cat ~/.gitconfig 
+ls -l ~/.gitconfig 
