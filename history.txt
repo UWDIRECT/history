@@ -586,3 +586,4 @@ gs
 git cp recipe_template.md guacamole.md
 cp recipe_template.md guacamole.md
 git status
+nano guacamole.md 
