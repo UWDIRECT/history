@@ -635,3 +635,24 @@ git add download_HCEPDB.bash
 git commit -m "turning it in"
 git push
 cat download_HCEPDB.bash 
+cat << EOF > download_HCEPDB.bash
+# This bash shell script downloads the HCEPDB into the current working directory and unzips it
+echo "making directory"
+mkdir HCEPDB
+
+echo "changing directory to HCEPDB"
+cd HCEPDB
+
+echo "making README.txt"
+echo "HCEPDB data live here" > README.txt
+
+echo "downloading the zip file"
+curl -O http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
+
+echo "unzipping the file"
+unzip HCEPDB_moldata.zip
+
+echo "here are the first few lines"
+head -3 HCEPDB_moldata.csv
+EOF
+
