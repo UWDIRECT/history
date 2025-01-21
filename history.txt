@@ -656,3 +656,6 @@ echo "here are the first few lines"
 head -3 HCEPDB_moldata.csv
 EOF
 
+cd history
+ls
+source start_history_tracking.source_me.bash 
