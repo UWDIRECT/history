@@ -668,3 +668,4 @@ curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi2
 head L4
 head L4.Procedural_Python.ipynb 
 ls -l L4
+ls -l L4.Procedural_Python.ipynb 
