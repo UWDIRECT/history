@@ -665,3 +665,4 @@ date
 echo `date`
 cd
 curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Procedural_Python.ipynb
+head L4
