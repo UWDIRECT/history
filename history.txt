@@ -663,3 +663,4 @@ echo `date`
 date
 `date`
 echo `date`
+cd
