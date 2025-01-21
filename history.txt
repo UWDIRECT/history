@@ -661,3 +661,4 @@ ls
 source start_history_tracking.source_me.bash 
 echo `date`
 date
+`date`
