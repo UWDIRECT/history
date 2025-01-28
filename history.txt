@@ -675,3 +675,11 @@ curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi2
 more L4.Procedural_Python.ipynbfdskjhfgskdf 
 more L4.Procedural_Python.ipynb
 echo `date`
+exit
+cd /mnt/c/Users/dacb/Documents/UWDIRECT.github.io
+git push
+ollama run deepseek-r1:1.5B
+pushd .
+cd
+cd history
+source start_history_tracking.source_me.bash 
