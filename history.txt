@@ -686,3 +686,4 @@ source start_history_tracking.source_me.bash
 cd ..
 curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L5.Pandas.ipynb
 ls -la L5.Pandas.ipynb 
+head L5.Pandas.ipynb 
