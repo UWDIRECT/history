@@ -688,3 +688,7 @@ curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi2
 ls -la L5.Pandas.ipynb 
 head L5.Pandas.ipynb 
 cd
+ollama run deepseek-r1:1.5B
+jupyter notebook L4.Procedural_Python.ipynb
+cd history
+source start_history_tracking.source_me.bash 
