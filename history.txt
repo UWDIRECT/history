@@ -692,3 +692,4 @@ ollama run deepseek-r1:1.5B
 jupyter notebook L4.Procedural_Python.ipynb
 cd history
 source start_history_tracking.source_me.bash 
+cd ../
