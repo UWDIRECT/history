@@ -718,3 +718,4 @@ vim woo/__init__.py
 import
 cd 
 python -c "import woo"
+python
