@@ -713,3 +713,4 @@ python
 c d../
 cd ..
 mv woo/woo.py woo/__init__.py
+python -c "import woo"
