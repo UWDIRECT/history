@@ -721,3 +721,4 @@ python -c "import woo"
 python
 cd woo
 ls
+mv __init__.py dave.py
