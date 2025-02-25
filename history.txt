@@ -742,3 +742,4 @@ python
 vim woo/dave.py 
 vim woo/__init__.py 
 python
+vim woo/__init__.py 
