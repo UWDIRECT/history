@@ -752,3 +752,4 @@ python -m unittest
 git clone git@github.com:UWSEDS/entropy.git
 cd entropy
 python -m unittest
+cat entropy/tests/test_entropy.py 
