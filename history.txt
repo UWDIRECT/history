@@ -728,3 +728,4 @@ python
 cd ..
 python
 tree woo
+cat woo/__init__.py 
