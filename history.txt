@@ -701,3 +701,4 @@ code .
 cd history
 source start_history_tracking.source_me.bash 
 cd ../foo
+cd ..
