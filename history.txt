@@ -747,3 +747,4 @@ python
 cat woo/__init__.py 
 tree entropy
 cat entropy/entropy/tests/test_entropy.py 
+python -m unittest
