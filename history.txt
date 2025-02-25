@@ -716,3 +716,4 @@ mv woo/woo.py woo/__init__.py
 python -c "import woo"
 vim woo/__init__.py 
 import
+cd 
