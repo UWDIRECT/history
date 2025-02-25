@@ -698,3 +698,5 @@ head e
 head Exceptions.ipynb 
 code 
 code .
+cd history
+source start_history_tracking.source_me.bash 
