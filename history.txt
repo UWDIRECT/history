@@ -710,3 +710,4 @@ python
 vim woo/woo.py
 cat woo/woo.py
 python
+c d../
