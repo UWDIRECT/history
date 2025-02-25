@@ -719,3 +719,4 @@ import
 cd 
 python -c "import woo"
 python
+cd woo
