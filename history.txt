@@ -722,3 +722,4 @@ python
 cd woo
 ls
 mv __init__.py dave.py
+vim __init__.py
