@@ -707,3 +707,4 @@ mkdir woo
 cd woo
 cd ..
 python
+vim woo/woo.py
