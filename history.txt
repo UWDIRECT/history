@@ -751,3 +751,4 @@ python -m unittest
 \rm -rf entropy
 git clone git@github.com:UWSEDS/entropy.git
 cd entropy
+python -m unittest
