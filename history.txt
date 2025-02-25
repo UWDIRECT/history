@@ -708,3 +708,4 @@ cd woo
 cd ..
 python
 vim woo/woo.py
+cat woo/woo.py
