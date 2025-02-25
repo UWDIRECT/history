@@ -705,3 +705,4 @@ cd ..
 cat foo.py
 mkdir woo
 cd woo
+cd ..
