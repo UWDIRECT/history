@@ -756,3 +756,30 @@ cat entropy/tests/test_entropy.py
 tree
 python -m unittest
 python
+cd /mnt/c/Users/dacb/Downloads/
+vim bib.bibtex
+mv bib.bibtex bib.bib
+vim bib.ris
+pushd .
+cd
+git clone git@github.com:UWDIRECT/HW0_template.git
+cd HW0_template/
+ls
+vim README.md 
+vim ISSUE_TEMPLATE.md 
+ls
+git add README.md 
+git add ISSUE_TEMPLATE.md 
+git push
+git commit -m "revised for new version of homework"
+git push
+dd if=/dev/random of=/mnt/c/Users/dacb/Downloads/beck_bio.docx bs=1024 count=328
+pushd .
+cd
+git clone git@github.com:UWDIRECT/history.git
+mv history/ historyl.583
+git clone git@github.com:UWDIRECT/history.git
+cd history
+ls
+more start_history_tracking.source_me.bash 
+source start_history_tracking.source_me.bash 
