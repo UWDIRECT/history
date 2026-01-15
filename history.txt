@@ -884,3 +884,4 @@ ls -la
 mv googs.html trash.html
 ls -l
 cp trash.html googs.html
+rm trash.html 
