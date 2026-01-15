@@ -882,3 +882,4 @@ ls ~/.bash
 ls ~/.bashrc 
 ls -la
 mv googs.html trash.html
+ls -l
