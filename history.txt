@@ -846,3 +846,4 @@ mkdir fish
 rm fish
 rmdir fish
 rm --help
+ls /tmp
