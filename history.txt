@@ -877,3 +877,4 @@ cat googs.html
 curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv
 curl --help
 ls -l
+man curl
