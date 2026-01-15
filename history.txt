@@ -804,3 +804,4 @@ cd stanley/
 pwd
 cd ..
 pwd
+cd /home/dacb/stanley/
