@@ -800,3 +800,4 @@ ls -la
 cd .
 cwd
 cd ..
+cd stanley/
