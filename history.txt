@@ -881,3 +881,4 @@ man curl
 ls ~/.bash
 ls ~/.bashrc 
 ls -la
+mv googs.html trash.html
