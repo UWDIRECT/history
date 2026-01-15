@@ -852,3 +852,4 @@ man rm
 alias
 alias rm='rm -i'
 touch foo
+rm foo
