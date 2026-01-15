@@ -792,3 +792,4 @@ cd
 cd history
 ls
 source start_history_tracking.source_me.bash 
+cd
