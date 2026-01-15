@@ -814,3 +814,4 @@ ls -l
 touch .dog
 ls -l
 ls -la
+A = 00
