@@ -875,3 +875,4 @@ traceroute www.google.com
 curl 142.251.45.132
 cat googs.html 
 curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv
+curl --help
