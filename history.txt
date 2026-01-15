@@ -831,3 +831,4 @@ cat ../gitkraken-amd64.deb
 cd ../stanley/
 more .dog
 less .dog
+head .dog
