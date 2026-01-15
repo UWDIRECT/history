@@ -810,3 +810,4 @@ cd stanley/
 ls -l ..
 ls
 ls -la
+ls -l
