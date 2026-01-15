@@ -819,3 +819,4 @@ T = 01
 C = 10
 G = 11
 touch .dog.txt
+ls -la
