@@ -856,3 +856,4 @@ rm foo
 mkdir bar
 touch bar/foo
 touch bar/baz
+ls -l bar
