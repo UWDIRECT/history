@@ -837,3 +837,4 @@ tail .dog
 head --help
 head -h
 head -help
+head --help
