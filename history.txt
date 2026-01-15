@@ -879,3 +879,4 @@ curl --help
 ls -l
 man curl
 ls ~/.bash
+ls ~/.bashrc 
