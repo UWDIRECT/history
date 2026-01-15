@@ -832,3 +832,4 @@ cd ../stanley/
 more .dog
 less .dog
 head .dog
+tail .dig
