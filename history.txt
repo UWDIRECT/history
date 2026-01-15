@@ -870,3 +870,4 @@ ls
 curl www.google.com
 curl --help
 curl -o googs.html www.google.com
+nslookup www.google.com
