@@ -822,3 +822,4 @@ touch .dog.txt
 ls -la
 nano .dog
 ls -la
+cat .dog
