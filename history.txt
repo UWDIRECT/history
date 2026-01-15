@@ -880,3 +880,4 @@ ls -l
 man curl
 ls ~/.bash
 ls ~/.bashrc 
+ls -la
