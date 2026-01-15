@@ -845,3 +845,4 @@ rm .do*
 mkdir fish
 rm fish
 rmdir fish
+rm --help
