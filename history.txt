@@ -796,3 +796,4 @@ cd
 pwd
 cd stanley/
 ls
+ls -la
