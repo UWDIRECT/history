@@ -850,3 +850,4 @@ ls /tmp
 rm /tmp/*
 man rm
 alias
+alias rm='rm -i'
