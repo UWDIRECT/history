@@ -860,3 +860,4 @@ ls -l bar
 rm bar
 rm bar/*
 \rm -rf bar
+history
