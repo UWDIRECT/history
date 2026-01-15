@@ -878,3 +878,4 @@ curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads
 curl --help
 ls -l
 man curl
+ls ~/.bash
