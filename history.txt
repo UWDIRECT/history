@@ -821,3 +821,4 @@ G = 11
 touch .dog.txt
 ls -la
 nano .dog
+ls -la
