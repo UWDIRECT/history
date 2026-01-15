@@ -795,3 +795,4 @@ source start_history_tracking.source_me.bash
 cd
 pwd
 cd stanley/
+ls
