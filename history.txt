@@ -803,3 +803,4 @@ cd ..
 cd stanley/
 pwd
 cd ..
+pwd
