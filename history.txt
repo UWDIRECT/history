@@ -834,3 +834,4 @@ less .dog
 head .dog
 tail .dig
 tail .dog
+head --help
