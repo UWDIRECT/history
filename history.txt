@@ -886,3 +886,4 @@ ls -l
 cp trash.html googs.html
 rm trash.html 
 df -s
+df -h
