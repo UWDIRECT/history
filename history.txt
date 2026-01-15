@@ -825,3 +825,4 @@ ls -la
 cat .dog
 nano .dog
 cat .dog
+ls ../
