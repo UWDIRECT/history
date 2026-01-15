@@ -872,3 +872,4 @@ curl --help
 curl -o googs.html www.google.com
 nslookup www.google.com
 traceroute www.google.com
+curl 142.251.45.132
