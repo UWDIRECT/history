@@ -859,3 +859,4 @@ touch bar/baz
 ls -l bar
 rm bar
 rm bar/*
+\rm -rf bar
