@@ -854,3 +854,4 @@ alias rm='rm -i'
 touch foo
 rm foo
 mkdir bar
+touch bar/foo
