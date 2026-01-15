@@ -812,3 +812,4 @@ ls
 ls -la
 ls -l
 touch .dog
+ls -l
