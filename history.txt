@@ -862,3 +862,4 @@ rm bar/*
 \rm -rf bar
 history
 rm fish
+curl https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/datasets/reactor_data.csv?raw=true
