@@ -835,3 +835,4 @@ head .dog
 tail .dig
 tail .dog
 head --help
+head -h
