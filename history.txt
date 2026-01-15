@@ -826,3 +826,4 @@ cat .dog
 nano .dog
 cat .dog
 ls ../
+cat ../gitkraken-amd64.deb 
