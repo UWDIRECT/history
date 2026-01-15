@@ -849,3 +849,4 @@ rm --help
 ls /tmp
 rm /tmp/*
 man rm
+alias
