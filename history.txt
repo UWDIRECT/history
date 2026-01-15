@@ -842,3 +842,4 @@ head -n 2 .dog
 tail -n 2 .dog
 ls -la
 rm .do*
+mkdir fish
