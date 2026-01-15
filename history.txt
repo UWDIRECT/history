@@ -807,3 +807,4 @@ pwd
 cd /home/dacb/stanley/
 cd /home/dacb/
 cd stanley/
+ls -l ..
