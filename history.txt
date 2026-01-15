@@ -784,3 +784,11 @@ ls
 more start_history_tracking.source_me.bash 
 source start_history_tracking.source_me.bash 
 ls -l
+cd /mnt/c/Users/dacb/Downloads/
+mv Recording\ \(15\).m4a recording15.m4a
+ffmpeg -i recording.m4a -ar 16000 -ac 1 recording.wav
+ffmpeg -i recording15.m4a -ar 16000 -ac 1 recording15.wav
+cd
+cd history
+ls
+source start_history_tracking.source_me.bash 
