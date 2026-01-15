@@ -838,3 +838,4 @@ head --help
 head -h
 head -help
 head --help
+head -n 2 .dog
