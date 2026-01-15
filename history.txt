@@ -855,3 +855,4 @@ touch foo
 rm foo
 mkdir bar
 touch bar/foo
+touch bar/baz
