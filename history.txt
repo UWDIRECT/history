@@ -978,3 +978,4 @@ cd cheme546/
 cd /tmp
 cd
 mv get_reactor_data.bash cheme546/
+explorer.exe .
