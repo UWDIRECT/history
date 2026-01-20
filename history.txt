@@ -965,3 +965,4 @@ cd ../stanley/
 ls
 cat get_reactor_data.bash 
 curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv
+curl  https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv
