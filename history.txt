@@ -938,3 +938,4 @@ cd ../stanley/
 curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv
 ls -la
 head reactor_data.csv 
+history
