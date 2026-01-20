@@ -945,3 +945,4 @@ ls -l
 rm reactor_data
 rm reactor_data.csv 
 cd reactor_data/
+ls
