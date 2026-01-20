@@ -962,3 +962,4 @@ explorer.exe reactor_data.csv
 open .
 popd
 cd ../stanley/
+ls
