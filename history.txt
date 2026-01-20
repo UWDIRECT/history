@@ -950,3 +950,4 @@ cat README.txt
 head reactor_data.csv 
 cd ../
 ls
+nano get_reactor_data.bash 
