@@ -948,3 +948,4 @@ cd reactor_data/
 ls
 cat README.txt 
 head reactor_data.csv 
+cd ../
