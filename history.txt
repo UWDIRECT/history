@@ -968,3 +968,4 @@ curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads
 curl  https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv
 cd
 mv stanley/get_reactor_data.bash 
+mv stanley/get_reactor_data.bash  .
