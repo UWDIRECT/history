@@ -971,3 +971,4 @@ mv stanley/get_reactor_data.bash
 mv stanley/get_reactor_data.bash  .
 cd ../
 mv stanley/get_reactor_data.bash  .
+bash get_reactor_data.bash 
