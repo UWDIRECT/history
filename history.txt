@@ -939,3 +939,4 @@ curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads
 ls -la
 head reactor_data.csv 
 history
+nano get_reactor_data.bash
