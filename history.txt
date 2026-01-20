@@ -957,3 +957,4 @@ nano get_reactor_data.bash
 bash get_reactor_data.bash 
 explorer.exe .
 ls
+cd reactor_data/
