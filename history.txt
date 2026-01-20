@@ -946,3 +946,4 @@ rm reactor_data
 rm reactor_data.csv 
 cd reactor_data/
 ls
+cat README.txt 
