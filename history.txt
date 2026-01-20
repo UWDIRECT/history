@@ -934,3 +934,4 @@ head reactor_data.csv
 cd ../
 cd history
 source start_history_tracking.source_me.bash 
+cd ../stanley/
