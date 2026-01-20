@@ -982,3 +982,4 @@ explorer.exe .
 history
 git
 git --version
+ssh -T git@github.com
