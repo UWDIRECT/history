@@ -963,3 +963,4 @@ open .
 popd
 cd ../stanley/
 ls
+cat get_reactor_data.bash 
