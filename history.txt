@@ -887,3 +887,50 @@ cp trash.html googs.html
 rm trash.html 
 df -s
 df -h
+exit
+ls -l ~/ssh
+ls -l ~/.ssh
+ls -la ~/.ssh
+ssh -T git@github.com
+cd python_intro/
+ls
+code HW1_545_546_upload.ipynb 
+cd /tmp
+curl -O https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/datasets/reactor_data.csv
+more reactor_data.csv 
+curl -O "https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/datasets/reactor_data.csv?raw=true"
+more reactor_data.csv 
+rm reactor_data.csv 
+curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv
+more reactor_data.csv 
+cd
+ls -d
+cd stanley/
+ls -d
+ls -F
+man ls
+ls -la
+touch .dog
+ls -A
+ls -a
+mkdir dave
+cd dave/
+ls -la
+cd ..
+rmdir dave
+ls -A
+man -F
+ls -F
+ls -FA
+ls -F
+ls -l
+ls -
+ls 
+ls --help
+ls -F@
+ls -F=@
+curl -O https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv
+head reactor_data.csv 
+cd ../
+cd history
+source start_history_tracking.source_me.bash 
