@@ -960,3 +960,4 @@ ls
 cd reactor_data/
 explorer.exe reactor_data.csv 
 open .
+popd
