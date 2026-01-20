@@ -975,3 +975,4 @@ bash get_reactor_data.bash
 ls -l
 mkdir cheme546
 cd cheme546/
+cd /tmp
