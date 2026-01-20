@@ -983,3 +983,4 @@ history
 git
 git --version
 ssh -T git@github.com
+ls -la ~/.ssh
