@@ -997,3 +997,4 @@ git --version
 git config --global user.name "Dave Beck"
 git config --global user.email "dacb@uw.edu"
 git config --global --list
+git config --list
