@@ -985,3 +985,4 @@ git --version
 ssh -T git@github.com
 ls -la ~/.ssh
 ssh -T git@github.com
+cowsay moo | lolcat
