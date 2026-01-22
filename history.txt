@@ -1047,3 +1047,4 @@ mv semds-hw0-dacb/ ~/
 cat README.md 
 cd ~/semds-hw0-dacb/
 cat README.md 
+ls ~/.bash
