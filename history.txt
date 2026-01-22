@@ -993,3 +993,4 @@ jobs
 bg
 cowsay moo | lolcat
 git
+git --version
