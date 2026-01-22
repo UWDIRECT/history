@@ -1001,3 +1001,4 @@ git config --list
 man ascii
 git config --global core.editor "nano -w"
 nano --help
+man nano
