@@ -1025,3 +1025,4 @@ nano README.md
 git config --list
 nano README.md 
 git status
+git add README.md 
