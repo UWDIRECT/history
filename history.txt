@@ -1062,3 +1062,4 @@ cp ~/cheme546/get_reactor_data.bash .
 git status
 git add get_reactor_data.bash 
 git commit -m "submitting homework"
+git push
