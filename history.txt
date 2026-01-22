@@ -1003,3 +1003,4 @@ git config --global core.editor "nano -w"
 nano --help
 man nano
 git config --global init.defaultBranch main
+git config --list
