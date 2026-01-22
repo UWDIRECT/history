@@ -1051,3 +1051,4 @@ ls ~/.bash
 ls ~/reactor_data/
 history
 ls
+ls ~/
