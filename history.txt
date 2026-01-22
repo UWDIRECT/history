@@ -1031,3 +1031,4 @@ git commit
 git log
 nano README.md 
 git diff
+git status
