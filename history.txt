@@ -1041,3 +1041,4 @@ git diff HEAD~1
 git diff HEAD~2
 git diff HEAD~3
 git diff HEAD~4
+git push
