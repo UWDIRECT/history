@@ -1007,3 +1007,4 @@ git config --list
 git config
 git clone git@github.com:dacb/gazpacho.git
 git config moo=cow
+git config --global moo=cow
