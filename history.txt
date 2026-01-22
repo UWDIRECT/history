@@ -987,3 +987,4 @@ ls -la ~/.ssh
 ssh -T git@github.com
 cowsay moo | lolcat
 sudo apt-get install lolcat
+cowsay moo | lolcat
