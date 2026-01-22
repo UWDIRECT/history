@@ -1006,3 +1006,4 @@ git config --global init.defaultBranch main
 git config --list
 git config
 git clone git@github.com:dacb/gazpacho.git
+git config moo=cow
