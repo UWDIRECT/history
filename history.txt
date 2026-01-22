@@ -1016,3 +1016,4 @@ git config --global --unset init.defaultbranch
 git config --list
 ls -l
 cd gazpacho/
+ls -la
