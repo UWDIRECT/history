@@ -1044,3 +1044,4 @@ git diff HEAD~4
 git push
 git clone git@github.com:UWDIRECT-2026/semds-hw0-dacb.git
 mv semds-hw0-dacb/ ~/
+cat README.md 
