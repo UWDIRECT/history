@@ -1012,3 +1012,4 @@ git config moo cow
 git config --global moo cow
 git config --list
 git config --unset init.defaultbranch
+git config --global --unset init.defaultbranch
