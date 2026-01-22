@@ -1038,3 +1038,4 @@ git checkout f94727a277f
 cat README.md 
 git diff HEAD
 git diff HEAD~1
+git diff HEAD~2
