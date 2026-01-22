@@ -995,3 +995,4 @@ cowsay moo | lolcat
 git
 git --version
 git config --global user.name "Dave Beck"
+git config --global user.email "dacb@uw.edu"
