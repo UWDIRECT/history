@@ -991,3 +991,4 @@ cowsay moo | lolcat
 conda install lolcat
 jobs
 bg
+cowsay moo | lolcat
