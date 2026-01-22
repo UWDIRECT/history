@@ -1004,3 +1004,4 @@ nano --help
 man nano
 git config --global init.defaultBranch main
 git config --list
+git config
