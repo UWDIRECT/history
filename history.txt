@@ -1032,3 +1032,4 @@ git log
 nano README.md 
 git diff
 git status
+git diff f94727a277f
