@@ -1034,3 +1034,4 @@ git diff
 git status
 git diff f94727a277f
 git commit -m "added directions section but it needs work" README.md 
+git checkout f94727a277f
