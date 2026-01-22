@@ -992,3 +992,4 @@ conda install lolcat
 jobs
 bg
 cowsay moo | lolcat
+git
