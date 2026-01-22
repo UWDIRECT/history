@@ -994,3 +994,4 @@ bg
 cowsay moo | lolcat
 git
 git --version
+git config --global user.name "Dave Beck"
