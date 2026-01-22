@@ -989,3 +989,4 @@ cowsay moo | lolcat
 sudo apt-get install lolcat
 cowsay moo | lolcat
 conda install lolcat
+jobs
