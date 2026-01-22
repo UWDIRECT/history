@@ -1058,3 +1058,4 @@ ls ~/stanley/
 ls ~/stanley/reactor_data
 ls ~/
 ls ~/cheme546/
+cp ~/cheme546/get_reactor_data.bash .
