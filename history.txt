@@ -1050,3 +1050,4 @@ cat README.md
 ls ~/.bash
 ls ~/reactor_data/
 history
+ls
